@@ -4,7 +4,7 @@ def second_challenge
     :patriarch => {},
     :matriarch => {},
     :hero => {},
-    :hero_frieds = []
+    :hero_frieds => []
       },
     :capulet => {
       :patriarch => {},
